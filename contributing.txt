@@ -223,5 +223,19 @@
    "Mileage" : "16.39 kmpl", 
    "Price" : "Rs.7.50 Cr",
 },
+{
 
+   "id" : 26,
+
+   "Car company" : "Creta", 
+
+   "Car model" : "xuv", 
+
+   "Colour" : "Black", 
+
+   "Mileage" : "16.8 kmpl", 
+
+   "Price" : "Rs.10.54 lakh-18.24 lakh",
+
+},
 ]

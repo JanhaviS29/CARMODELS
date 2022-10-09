@@ -229,5 +229,13 @@
    "Colour" : "white", 
    "Mileage" : "27.87 kmpl", 
    "Price" : "₹ 2 lkh - ₹ 3.45 lkh"
+   {
+   "id" : 27,
+   "Car company" : "Rivian", 
+   "Car model" : "R1T", 
+   "Colour" : "Green", 
+   "Mileage" : "314 miles per charge", 
+   "Price" : "$79,500",
+},
 
 ]

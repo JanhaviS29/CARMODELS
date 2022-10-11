@@ -30,3 +30,20 @@
     
     
      }
+     {
+
+"id" : "1",
+
+"Car brand" : "Mahindra Bolero Neo",
+
+"Car model" : "N8",
+
+"Colour" : "Black color",
+
+"Mileage" : "17 to 18 kmpl",
+
+"Price" : "9 to 10 lakh"
+
+
+
+ }

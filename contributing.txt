@@ -215,13 +215,22 @@
    "Price" : "3.22- 3.73Crore",
 },
     
-     {
+{
    "id" : 35,
    "Car company" : "Ferrari SF90", 
    "Car model" : "Sports", 
    "Colour" : "Red", 
    "Mileage" : "16.39 kmpl", 
    "Price" : "Rs.7.50 Cr",
+},
+
+{
+   "id" : 36,
+   "Car company" : "Mahindra XUV700", 
+   "Car model" : "SUV", 
+   "Colour" : "Black", 
+   "Mileage" : "36.39 kmpl", 
+   "Price" : "₹ 13.45 Lakh onwards",
 },
 
 ]

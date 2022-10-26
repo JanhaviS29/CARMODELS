@@ -46,7 +46,7 @@
 
    },
    {
-  "id" : 7,
+  "id" : 6,
    "Car company" : "safari", 
    "Car model" : "Lamborghini ", 
    "Colour" : "black", 
@@ -56,7 +56,7 @@
    },
 
   {
-  "id" : 8
+  "id" : 7
    "Car company" : "Toyota", 
    "Car model" : "Fortuner", 
    "Colour" : "black", 
@@ -66,7 +66,7 @@
    },  
 
    {
-   "id" : 9,
+   "id" : 8,
    "Car company" : "ford", 
    "Car model" : "mustang gt", 
    "Colour" : "black", 
@@ -75,7 +75,7 @@
    },
    
      {
-  "id" : 52
+  "id" : 9
    "Car company" : "Maruti sujuki", 
    "Car model" : "Maruti Alto 800 ", 
    "Colour" : "black", 
@@ -130,7 +130,7 @@
    },
 
 {
-   "id" : "14"
+   "id" : "15"
    "Car company" : "Rolles Royes", 
    "Car model" : "Phantom", 
    "Colour" : "Absolute Steel", 
@@ -138,7 +138,7 @@
    "Price" : "₹ 4 Crore - ₹ 258 Crore"
   },
  {
-   "id" : 15,
+   "id" : 16,
    "Car company" : "ford", 
    "Car model" : "mustang gt 346", 
    "Colour" : "badge-black", 
@@ -146,7 +146,7 @@
    "Price" : "₹ 94.61 Lakh"
    },
  {
-  "id" : 22
+  "id" : 17
    "Car company" : "Maruti", 
    "Car model" : "Maruti-baleno", 
    "Colour" : "blue", 
@@ -155,7 +155,7 @@
    },
 
 {
-"id" : 13,
+"id" : 18,
    "Car company" : "hyundai", 
    "Car model" : "Grand i10 sport", 
    "Colour" : "black", 
@@ -163,7 +163,7 @@
    "Price" : "6lakh -7lakh",
 },
 {
-"id" : 25,
+"id" : 19,
    "Car company" : "Kia", 
    "Car model" : "Seltos", 
    "Colour" : "Gravity Grey", 
@@ -172,7 +172,7 @@
 },
 
 {
-"id" : 30,
+"id" : 20,
    "Car company" : "Maruti Grand Vitara", 
    "Car model" : "Delta", 
    "Colour" : "white", 
@@ -180,7 +180,7 @@
    "Price" : "10.45lakh",
 },
 {
-"id" : 31,
+"id" : 21,
    "Car company" : "Tesla", 
    "Car model" : "Model S Plaid", 
    "Colour" : "red", 
@@ -189,7 +189,7 @@
 },
 
  {
-   "id" : 32
+   "id" : 22
    "Car company" : "Tata", 
    "Car model" : "tigor ev", 
    "Colour" : "white", 
@@ -198,7 +198,7 @@
    },
 
 {
-   "id" : 33
+   "id" : 23
    "Car company" : "Suzuki", 
    "Car model" : "sigma", 
    "Colour" : "gray", 
@@ -207,7 +207,7 @@
    },
    
    {
-   "id" : 34,
+   "id" : 24,
    "Car company" : "lamborghini", 
    "Car model" : "huracan", 
    "Colour" : "Grey", 
@@ -216,7 +216,7 @@
 },
     
 {
-   "id" : 35,
+   "id" : 25,
    "Car company" : "Ferrari SF90", 
    "Car model" : "Sports", 
    "Colour" : "Red", 
@@ -225,7 +225,33 @@
 },
 
 {
-   "id" : 36,
+"id" : 26
+   "Car company" : "TATA", 
+   "Car model" : "Nano", 
+   "Colour" : "white", 
+   "Mileage" : "27.87 kmpl", 
+   "Price" : "₹ 2 lkh - ₹ 3.45 lkh"
+   }
+   
+   {
+   "id" : 27,
+   "Car company" : "Rivian", 
+   "Car model" : "R1T", 
+   "Colour" : "Green", 
+   "Mileage" : "314 miles per charge", 
+   "Price" : "$79,500",
+},
+{
+   "id" : 28,
+   "Car company" : "TATA", 
+   "Car model" : "NANO", 
+   "Colour" : "Green", 
+   "Mileage" : "314 miles per charge", 
+   "Price" : "RS179,500",
+},
+
+{
+   "id" : 29,
    "Car company" : "Mahindra XUV700", 
    "Car model" : "SUV", 
    "Colour" : "Black", 
